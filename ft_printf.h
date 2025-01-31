@@ -6,19 +6,18 @@
 /*   By: jmellado <jmellado@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/31 12:26:05 by jmellado          #+#    #+#             */
-/*   Updated: 2025/01/31 12:26:09 by jmellado         ###   ########.fr       */
+/*   Updated: 2025/01/31 12:54:56 by jmellado         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
 
 #ifndef FT_PRINTF_H
 # define FT_PRINTF_H
 
 # include <stdarg.h>
-# include <unistd.h>
 # include <stdio.h>
 # include <stdlib.h>
 # include <string.h>
+# include <unistd.h>
 
 int	ft_printf(char const *str, ...);
 int	ft_putchar(int c);

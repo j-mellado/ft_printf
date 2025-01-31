@@ -6,11 +6,9 @@
 /*   By: jmellado <jmellado@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/31 12:27:39 by jmellado          #+#    #+#             */
-/*   Updated: 2025/01/31 12:27:40 by jmellado         ###   ########.fr       */
+/*   Updated: 2025/01/31 12:55:18 by jmellado         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-
 
 #include "ft_printf.h"
 
