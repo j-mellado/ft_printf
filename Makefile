@@ -5,10 +5,12 @@
 #                                                     +:+ +:+         +:+      #
 #    By: jmellado <jmellado@student.42malaga.com    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2024/12/09 19:04:01 by noepache          #+#    #+#              #
-#    Updated: 2025/01/31 10:31:22 by jmellado         ###   ########.fr        #
+#    Created: 2025/01/31 12:27:48 by jmellado          #+#    #+#              #
+#    Updated: 2025/01/31 12:27:49 by jmellado         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
+
+
 
 NAME = libftprintf.a
 
