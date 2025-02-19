@@ -6,7 +6,7 @@
 /*   By: jmellado <jmellado@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/31 12:26:55 by jmellado          #+#    #+#             */
-/*   Updated: 2025/01/31 12:26:57 by jmellado         ###   ########.fr       */
+/*   Updated: 2025/02/19 18:00:15 by jmellado         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -60,3 +60,27 @@ static int	ft_length_pointer(unsigned long long ptr)
 	}
 	return (len);
 }
+/*
+#include <stdio.h>
+#include "ft_printf.h"
+
+int main(void)
+{
+    unsigned long long ptr1 = 0;
+    unsigned long long ptr2 = 123456789;
+    unsigned long long ptr3 = 0xabcdef;
+
+    printf("Testing ft_printf_pointer with ptr1 (0):\n");
+    ft_printf_pointer(ptr1);
+    printf("\n");
+
+    printf("Testing ft_printf_pointer with ptr2 (123456789):\n");
+    ft_printf_pointer(ptr2);
+    printf("\n");
+
+    printf("Testing ft_printf_pointer with ptr3 (0xabcdef):\n");
+    ft_printf_pointer(ptr3);
+    printf("\n");
+
+    return 0;
+}*/
